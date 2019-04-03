@@ -15,7 +15,7 @@ public class LinkList {
 
     private Link first;
     
-//  desc sort and  insert
+// asc sort and  insert
     public void add(char data) {
         Link newLink = new Link(data);
 
